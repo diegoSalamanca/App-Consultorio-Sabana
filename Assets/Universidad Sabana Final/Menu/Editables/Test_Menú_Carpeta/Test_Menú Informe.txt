@@ -1,0 +1,133 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Test_Menú.ai
+Modo de color: Color RGB
+Perfil de color: ninguno
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 2643,9546 px x 5636,7266 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Humanist 521 Light BT (TrueType)
+Humanst521 BT Roman (TrueType)
+Nunito-Bold (TrueType)
+Nunito-Light (TrueType)
+Gotham-LightItalic (TrueType)
+Gotham-Bold (TrueType)
+Gotham-Book (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+S:\U_SABANA\Diseño Splash\Recurso 2.png
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 6083K, 1921 por 1081 píxeles
+Dimensiones: 1921 por 1081 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed (1).png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 512 por 512 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+C:\Users\pc\Downloads\pexels-roger-brown-5149754.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 70312K, 6000 por 4000 píxeles
+Dimensiones: 1808,408 por 1205,605 puntos 
+Resolución: 238,884 por 238,884 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed (1).png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 512 por 512 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 551,663 por 551,663 puntos 
+Resolución: 66,823 por 66,823 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 551,663 por 551,663 puntos 
+Resolución: 66,823 por 66,823 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed (1).png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 512 por 512 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 551,663 por 551,663 puntos 
+Resolución: 66,823 por 66,823 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed (1).png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 512 por 512 puntos 
+Resolución: 72 por 72 píxeles por pulgada
+
+
+S:\U_SABANA\Diseño Splash\unnamed.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1024K, 512 por 512 píxeles
+Dimensiones: 551,663 por 551,663 puntos 
+Resolución: 66,823 por 66,823 píxeles por pulgada
