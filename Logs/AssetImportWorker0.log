@@ -1,0 +1,908 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/diegosalamanca/Documents/Unity Projects/App-Consultorio-Sabana
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56443
+Successfully changed project path to: /Users/diegosalamanca/Documents/Unity Projects/App-Consultorio-Sabana
+/Users/diegosalamanca/Documents/Unity Projects/App-Consultorio-Sabana
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 94.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/diegosalamanca/Documents/Unity Projects/App-Consultorio-Sabana/Assets
+GfxDevice: creating device client; threaded=0
+2021-08-09 10:19:51.968 Unity[48649:2243417] (null) preferred device: Apple M1 (high power)
+2021-08-09 10:19:51.968 Unity[48649:2243417] Metal devices available: 1
+2021-08-09 10:19:51.968 Unity[48649:2243417] 0: Apple M1 (high power)
+2021-08-09 10:19:51.968 Unity[48649:2243417] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56649
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001349 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.396 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003927 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.838 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3208 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.8 MB.
+System memory in use after: 237.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3645.
+Total: 4.076042 ms (FindLiveObjects: 0.518834 ms CreateObjectMapping: 0.072666 ms MarkObjects: 3.397959 ms  DeleteObjects: 0.085708 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Player.prefab
+  artifactKey: Guid(75fc9485809cc7d44bb564977e99fc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.prefab using Guid(75fc9485809cc7d44bb564977e99fc30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c7347a68bc85e2ddf39b63864ab679') in 1.563611 seconds 
+  Import took 1.569959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.166255 seconds.
+  path: Assets/paciente test/defaultMat.001.mat
+  artifactKey: Guid(f1f9a473212d94847a9a04583c7915e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.001.mat using Guid(f1f9a473212d94847a9a04583c7915e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c113e3470e198ec6d1b96b5e8805e9d') in 0.910545 seconds 
+  Import took 0.926504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/paciente test/defaultMat.004.mat
+  artifactKey: Guid(aae16bac78ed4264f96deaec249dd153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.004.mat using Guid(aae16bac78ed4264f96deaec249dd153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd744065a762608bdea83c46f74cccbb2') in 0.306268 seconds 
+  Import took 0.310414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/paciente test/defaultMat.006.mat
+  artifactKey: Guid(5434446d5e5c28d4286ad0605d619fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.006.mat using Guid(5434446d5e5c28d4286ad0605d619fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4496794fb046e060438ea91029c8e28d') in 0.336662 seconds 
+  Import took 0.340739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/paciente test/defaultMat.005.mat
+  artifactKey: Guid(5cc96280837f6154a929313045d090b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.005.mat using Guid(5cc96280837f6154a929313045d090b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99496ad733d13584d881c614bc6d3e2') in 0.007598 seconds 
+  Import took 0.011498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003647 seconds.
+  path: Assets/paciente test/defaultMat.003.mat
+  artifactKey: Guid(2a17c4e5ee14949449cbe777e3916947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.003.mat using Guid(2a17c4e5ee14949449cbe777e3916947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6614b32ae1264f90e3046900e383bd9c') in 0.007167 seconds 
+  Import took 0.011212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/paciente test/defaultMat.001.mat
+  artifactKey: Guid(f1f9a473212d94847a9a04583c7915e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.001.mat using Guid(f1f9a473212d94847a9a04583c7915e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c113e3470e198ec6d1b96b5e8805e9d') in 0.011194 seconds 
+  Import took 0.015050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/paciente test/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05325bb1e3ed1ce5567e148f9c0d107') in 1.095025 seconds 
+  Import took 1.106758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/paciente test/defaultMat.mat
+  artifactKey: Guid(749b0d2cf8c6f6844a7f93e0f611a0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.mat using Guid(749b0d2cf8c6f6844a7f93e0f611a0ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b8b623f08011f41237ee1974f0b2c0') in 0.014830 seconds 
+  Import took 0.020730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/paciente test/defaultMat.009.mat
+  artifactKey: Guid(2d72ecb113c565b4ab25b35869b1e402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/defaultMat.009.mat using Guid(2d72ecb113c565b4ab25b35869b1e402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c5683c0e330250fd33efb9094c96d1') in 0.015482 seconds 
+  Import took 0.019564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/paciente test/Material 1.mat
+  artifactKey: Guid(4c60f39eb0eb7ef44833fbd3246c6b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/Material 1.mat using Guid(4c60f39eb0eb7ef44833fbd3246c6b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f050ef365078f47ca5d4344c1bdb21') in 0.010795 seconds 
+  Import took 0.015214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/paciente test/Material.mat
+  artifactKey: Guid(c2405727501fdf14e97f65df6b57a01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test/Material.mat using Guid(c2405727501fdf14e97f65df6b57a01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df8902e976aa66268336bb1be4481bee') in 0.009779 seconds 
+  Import took 0.014421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 262.585079 seconds.
+  path: Assets/paciente test
+  artifactKey: Guid(86533fe396525cc43a788c32ba88a7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente test using Guid(86533fe396525cc43a788c32ba88a7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3470a2beb99d829c8bf94506f31555e') in 0.002701 seconds 
+  Import took 0.015826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.089756 seconds.
+  path: Assets/paciente
+  artifactKey: Guid(9eb33f76ab0968a4785160f5b2560882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente using Guid(9eb33f76ab0968a4785160f5b2560882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2167a2688b0598815f0d0ba4d778725f') in 0.002208 seconds 
+  Import took 0.008238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.076241 seconds.
+  path: Assets/Paquete_Escenario
+  artifactKey: Guid(4b0a763342f697a48837ff943a7d1876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paquete_Escenario using Guid(4b0a763342f697a48837ff943a7d1876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6b34397d1b32f1517ad652e879c879') in 0.002742 seconds 
+  Import took 0.008975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000833 seconds.
+  path: Assets/Paquete_Escenario
+  artifactKey: Guid(4b0a763342f697a48837ff943a7d1876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paquete_Escenario using Guid(4b0a763342f697a48837ff943a7d1876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6b34397d1b32f1517ad652e879c879') in 0.000856 seconds 
+  Import took 0.005782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.986265 seconds.
+  path: Assets/Paquete_Escenario/baldoza.png
+  artifactKey: Guid(3e143dcdb33cb7244aabef0aaa783301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paquete_Escenario/baldoza.png using Guid(3e143dcdb33cb7244aabef0aaa783301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e3b59e30355590eccb5d811587772c') in 0.615158 seconds 
+  Import took 0.620657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Paquete_Escenario/Material.053.mat
+  artifactKey: Guid(8d88b77d6c7354d419c1f915c0353847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paquete_Escenario/Material.053.mat using Guid(8d88b77d6c7354d419c1f915c0353847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eafd0c3942b5476ecf70dac573f3f9e') in 0.016454 seconds 
+  Import took 0.020332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Paquete_Escenario/Paredes_Escenario.fbx
+  artifactKey: Guid(24121dce0e6d3c04b8eef25e7802b127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paquete_Escenario/Paredes_Escenario.fbx using Guid(24121dce0e6d3c04b8eef25e7802b127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc392bcb3736e950cc8748c770aee466') in 0.116580 seconds 
+  Import took 0.120813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Paquete_Escenario/Guardaescobas_espera.fbx
+  artifactKey: Guid(aba30af69d0dcbb4eacfcf4a5c33d4d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paquete_Escenario/Guardaescobas_espera.fbx using Guid(aba30af69d0dcbb4eacfcf4a5c33d4d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e25c3760eecc3c1ed51a8bb2cb572526') in 0.015011 seconds 
+  Import took 0.018773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Paquete_Escenario/Fondo.fbx
+  artifactKey: Guid(19b59a6880a97594abf3c96b4c1239f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paquete_Escenario/Fondo.fbx using Guid(19b59a6880a97594abf3c96b4c1239f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025cabc626bbc4a27a44893049a4db9c') in 0.016636 seconds 
+  Import took 0.020514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.710775 seconds.
+  path: Assets/paciente 2
+  artifactKey: Guid(9eb33f76ab0968a4785160f5b2560882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente 2 using Guid(9eb33f76ab0968a4785160f5b2560882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd596c160f61f8c375de1f6852a745d03') in 0.002428 seconds 
+  Import took 0.007111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30586.861809 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005639 seconds 
+  Import took 0.029071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.903455 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(be4ebd3717e15944482bd5b11fbc633c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(be4ebd3717e15944482bd5b11fbc633c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8deea9868f60486d1f7225c236f0c3d') in 0.001609 seconds 
+  Import took 0.009133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.917322 seconds.
+  path: Assets/ExampleAssets
+  artifactKey: Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets using Guid(990f5c2df70993f4987a388ca178996a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ac45704b3e904ca5b19a6457cc79ac') in 0.001270 seconds 
+  Import took 0.007866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.459999 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1fccef896d48891410691dfde716e5') in 0.001518 seconds 
+  Import took 0.007831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.968927 seconds.
+  path: Assets/Personajes Richard
+  artifactKey: Guid(dfb23caabf55e5947a53f1795dcaf217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personajes Richard using Guid(dfb23caabf55e5947a53f1795dcaf217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5911aca2ade553ff371fa31aa59409') in 0.001495 seconds 
+  Import took 0.007818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.024696 seconds.
+  path: Assets/Presets
+  artifactKey: Guid(558255460b74ec04fa70b5570e9327bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets using Guid(558255460b74ec04fa70b5570e9327bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1966229f3d7993f283b578bcf544b58') in 0.001665 seconds 
+  Import took 0.008278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.867288 seconds.
+  path: Assets/Universidad Sabana Final
+  artifactKey: Guid(f9642659732278243b2f3a7d06b4340d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universidad Sabana Final using Guid(f9642659732278243b2f3a7d06b4340d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7a93d993865ad99a87da52c1f50421') in 0.001233 seconds 
+  Import took 0.007887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001931 seconds.
+  path: Assets/Universidad Sabana Final
+  artifactKey: Guid(f9642659732278243b2f3a7d06b4340d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universidad Sabana Final using Guid(f9642659732278243b2f3a7d06b4340d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7a93d993865ad99a87da52c1f50421') in 0.000862 seconds 
+  Import took 0.007136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.534965 seconds.
+  path: Assets/VIDE
+  artifactKey: Guid(cf2c8c2fb61485c4e92b4a4eef4c637a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIDE using Guid(cf2c8c2fb61485c4e92b4a4eef4c637a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dcc531b946fdb2824bb376ca338abe6') in 0.001112 seconds 
+  Import took 0.007136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.599621 seconds.
+  path: Assets/TutorialInfo
+  artifactKey: Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo using Guid(49110bb8dcada46328ad741970bce702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5a30219286eb2a872f2f84d66d9616') in 0.001799 seconds 
+  Import took 0.007231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.724897 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(38dc1448e50a94f4a9c7cb64194faa72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(38dc1448e50a94f4a9c7cb64194faa72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ad3adac0e613f1996c405f6aaa36e1') in 0.007227 seconds 
+  Import took 0.012338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.539717 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(b6815af3cb503d740a2c30827c345872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(b6815af3cb503d740a2c30827c345872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cfb0eaa8772a84ad8523736cc24a56') in 0.001868 seconds 
+  Import took 0.009567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.496855 seconds.
+  path: Assets/StarterAssets
+  artifactKey: Guid(b33f5ebabf249e446b161528929fa0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets using Guid(b33f5ebabf249e446b161528929fa0e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425f1d63fd9a668f7e7c54317ef1ea2e') in 0.006846 seconds 
+  Import took 0.012918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.599084 seconds.
+  path: Assets/Settings
+  artifactKey: Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings using Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadd7ca10b5bf32e886eec457cf073a7') in 0.001314 seconds 
+  Import took 0.006677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000902 seconds.
+  path: Assets/Settings
+  artifactKey: Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings using Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadd7ca10b5bf32e886eec457cf073a7') in 0.000950 seconds 
+  Import took 0.005677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.501228 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a913a0049096cde5d6a727232f232f') in 0.003830 seconds 
+  Import took 0.010122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.307398 seconds.
+  path: Assets/paciente
+  artifactKey: Guid(86533fe396525cc43a788c32ba88a7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente using Guid(86533fe396525cc43a788c32ba88a7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0bc45277df833657300fe14af4ef4e') in 0.004308 seconds 
+  Import took 0.055678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 719.347162 seconds.
+  path: Assets/paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb33423415a241ba994fff60f960f6f7') in 0.383515 seconds 
+  Import took 0.402522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.650458 seconds.
+  path: Assets/paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaccc410d6c9228f3e74dec6b519883d') in 0.252316 seconds 
+  Import took 0.275248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1490.569966 seconds.
+  path: Assets/paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76f83f267c8397bd268659a6152ccc2') in 0.387918 seconds 
+  Import took 0.458628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.734422 seconds.
+  path: Assets/paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b361c6f553f3f04f16e91eb99871ed6') in 0.290832 seconds 
+  Import took 0.310460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 206.496588 seconds.
+  path: Assets/paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a651cb1932d8674005789eb548319d') in 0.252201 seconds 
+  Import took 0.277400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 409.050120 seconds.
+  path: Assets/paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f719413b40ec9f87410f628ed87865') in 0.220712 seconds 
+  Import took 0.244160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.783826 seconds.
+  path: Assets/paciente/Materials
+  artifactKey: Guid(0e557fe13daa34bbaa0911bf7036d275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/paciente/Materials using Guid(0e557fe13daa34bbaa0911bf7036d275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe653db0ef3eee7a14155b3087d4945') in 0.017147 seconds 
+  Import took 0.065112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.731426 seconds.
+  path: Assets/Materials/Skybox_Mat.mat
+  artifactKey: Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skybox_Mat.mat using Guid(0ffaa0b7117ba8c47a9d05ae701d4b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d54ab3375f41efad00566dcae11def2') in 0.230819 seconds 
+  Import took 0.246996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.207765 seconds.
+  path: Assets/Paciente
+  artifactKey: Guid(86533fe396525cc43a788c32ba88a7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente using Guid(86533fe396525cc43a788c32ba88a7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ead3754adbbed5024900defe80dfecf') in 0.010920 seconds 
+  Import took 0.062112 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003679 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.900 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 271.1 MB.
+System memory in use after: 271.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3733.
+Total: 1.921542 ms (FindLiveObjects: 0.241792 ms CreateObjectMapping: 0.070750 ms MarkObjects: 1.582333 ms  DeleteObjects: 0.025833 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 349.534115 seconds.
+  path: Assets/Paciente/Paciente.prefab
+  artifactKey: Guid(d0a947bf4ae4440dba55e182a271c440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Paciente.prefab using Guid(d0a947bf4ae4440dba55e182a271c440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db722de1fab47a2717fbbb080901c66e') in 1.926157 seconds 
+  Import took 1.948451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 190.400350 seconds.
+  path: Assets/Paciente/Materials/defaultMat.006.mat
+  artifactKey: Guid(5434446d5e5c28d4286ad0605d619fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Materials/defaultMat.006.mat using Guid(5434446d5e5c28d4286ad0605d619fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9bfb718b6585a20b70c18320a3cdc29') in 0.130560 seconds 
+  Import took 0.174551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002312 seconds.
+  path: Assets/Paciente/Materials/defaultMat.005.mat
+  artifactKey: Guid(5cc96280837f6154a929313045d090b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Materials/defaultMat.005.mat using Guid(5cc96280837f6154a929313045d090b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '242c77b63298c6893a2a008784dc7b44') in 0.009114 seconds 
+  Import took 0.013986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001584 seconds.
+  path: Assets/Paciente/Texturas/Zapatos/zapatos_Normal_OpenGL.png
+  artifactKey: Guid(ea61df3e51c68c9449b7c572bc46365c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Zapatos/zapatos_Normal_OpenGL.png using Guid(ea61df3e51c68c9449b7c572bc46365c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e42d4f4ebbb85e533843edcc889092') in 0.046039 seconds 
+  Import took 0.051072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001413 seconds.
+  path: Assets/Paciente/Texturas/Body/1001_Normal_OpenGL.png
+  artifactKey: Guid(991e60b7675e8df4988fbc1f82477021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Body/1001_Normal_OpenGL.png using Guid(991e60b7675e8df4988fbc1f82477021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d38cdb82bef85546562ec0b79d4de4') in 0.011246 seconds 
+  Import took 0.016314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001474 seconds.
+  path: Assets/Paciente/Texturas/Zapatos/zapatos_Base_Color.png
+  artifactKey: Guid(c8df4510f24747d459988f1f702931fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Zapatos/zapatos_Base_Color.png using Guid(c8df4510f24747d459988f1f702931fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ed2385ec37478b12e79dd2c2a499aa') in 0.007297 seconds 
+  Import took 0.011546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001310 seconds.
+  path: Assets/Paciente/Texturas/Ojos.png
+  artifactKey: Guid(66fdfbe3ad9944a4b806cf5468bf0774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Ojos.png using Guid(66fdfbe3ad9944a4b806cf5468bf0774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c3037b9e9b06b8e82af5f77c549752') in 0.006666 seconds 
+  Import took 0.010848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002821 seconds.
+  path: Assets/Paciente/Texturas/Camisa/1001_Roughness.png
+  artifactKey: Guid(8e6ca6c2e3635a941bf9e15c45ba310a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Camisa/1001_Roughness.png using Guid(8e6ca6c2e3635a941bf9e15c45ba310a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1063e2703ccd710d14ebdfc67ff5c202') in 0.008047 seconds 
+  Import took 0.011440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001128 seconds.
+  path: Assets/Paciente/Texturas/pantalon/Pantalon_Mixed_AO.png
+  artifactKey: Guid(8ed39b7252095e343bdb6cd5125e9af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/pantalon/Pantalon_Mixed_AO.png using Guid(8ed39b7252095e343bdb6cd5125e9af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efad20c84f1a36e7640e2787047645e') in 0.006916 seconds 
+  Import took 0.010700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003616 seconds.
+  path: Assets/Paciente/Texturas/Body/1001_Mixed_AO.png
+  artifactKey: Guid(a868e3475de690c419696e1aa0419fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Body/1001_Mixed_AO.png using Guid(a868e3475de690c419696e1aa0419fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0164e0953da57e8f628c51b15d0ad02') in 0.007217 seconds 
+  Import took 0.011043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002345 seconds.
+  path: Assets/Paciente/Texturas/Body/1001_Base_Color.png
+  artifactKey: Guid(be6edcc78c8593f4ab30864193c688ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Body/1001_Base_Color.png using Guid(be6edcc78c8593f4ab30864193c688ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17543e99897c36abf9f1767e93763f22') in 0.008625 seconds 
+  Import took 0.012534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001428 seconds.
+  path: Assets/Paciente/Texturas/Camisa/1001_Base_Color.png
+  artifactKey: Guid(b2d979192e6d2b64c9336cbd7be0cadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Camisa/1001_Base_Color.png using Guid(b2d979192e6d2b64c9336cbd7be0cadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a8618458c3e23591b6119f52b774a5') in 0.006672 seconds 
+  Import took 0.010306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002555 seconds.
+  path: Assets/Paciente/Texturas/pantalon/Pantalon_Base_Color.png
+  artifactKey: Guid(fe7433a6b4d268045af2524756f1d0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/pantalon/Pantalon_Base_Color.png using Guid(fe7433a6b4d268045af2524756f1d0c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b657942d2b294ea71d0a953592be9d9') in 0.007061 seconds 
+  Import took 0.010950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001978 seconds.
+  path: Assets/Paciente/Texturas/Camisa/1001_Mixed_AO.png
+  artifactKey: Guid(6f2c1c36f70c478478aa5f6ea98412e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Camisa/1001_Mixed_AO.png using Guid(6f2c1c36f70c478478aa5f6ea98412e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044269e08d5a1bbde6f5ba1f8cb35ef6') in 0.007089 seconds 
+  Import took 0.010778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002478 seconds.
+  path: Assets/Paciente/Texturas/Camisa/1001_Normal_OpenGL.png
+  artifactKey: Guid(0c65b98d49ff7c04c9f336eb7cc78027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/Camisa/1001_Normal_OpenGL.png using Guid(0c65b98d49ff7c04c9f336eb7cc78027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d2962776e322ddd9be7f2c6f51e4fe') in 0.007642 seconds 
+  Import took 0.011355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003690 seconds.
+  path: Assets/Paciente/Texturas/pantalon/Pantalon_Normal.png
+  artifactKey: Guid(76f7db2dc2ec4f04fa6ad3e696f4fc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas/pantalon/Pantalon_Normal.png using Guid(76f7db2dc2ec4f04fa6ad3e696f4fc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a5fed74d41d4c6b570764e85fb6401b') in 0.007054 seconds 
+  Import took 0.010812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35300.702625 seconds.
+  path: Assets/Paciente/Animation Controller
+  artifactKey: Guid(c2f3346b8992442fea1abac8a1095fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Animation Controller using Guid(c2f3346b8992442fea1abac8a1095fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e58c3e6293cca868cfa4e147bf7809d') in 0.011504 seconds 
+  Import took 0.131170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.572627 seconds.
+  path: Assets/Paciente/Controller
+  artifactKey: Guid(c2f3346b8992442fea1abac8a1095fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Controller using Guid(c2f3346b8992442fea1abac8a1095fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a79e8c086ef08573dc2f777dcdfa3204') in 0.005883 seconds 
+  Import took 0.015209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.138660 seconds.
+  path: Assets/Paciente/Controller/New Animator Controller.controller
+  artifactKey: Guid(de206d7de715147078b465dcd55c1c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Controller/New Animator Controller.controller using Guid(de206d7de715147078b465dcd55c1c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9002314d486f8350826bad99b219bffa') in 0.794412 seconds 
+  Import took 0.805902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.786647 seconds.
+  path: Assets/Paciente/Controller/paciente controller.controller
+  artifactKey: Guid(de206d7de715147078b465dcd55c1c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Controller/paciente controller.controller using Guid(de206d7de715147078b465dcd55c1c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb15709675cdc50b44f0ddfb5f8fde1') in 0.008045 seconds 
+  Import took 0.019194 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007050 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.113 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 279.1 MB.
+System memory in use after: 279.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3772.
+Total: 1.993917 ms (FindLiveObjects: 0.226125 ms CreateObjectMapping: 0.080375 ms MarkObjects: 1.655625 ms  DeleteObjects: 0.031167 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 230.426768 seconds.
+  path: Assets/Paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff886e40db1f045b128f05e4c24e88f1') in 1.215553 seconds 
+  Import took 1.232337 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.045156 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.927 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 280.1 MB.
+System memory in use after: 280.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3811.
+Total: 4.143166 ms (FindLiveObjects: 0.283583 ms CreateObjectMapping: 0.068792 ms MarkObjects: 3.765958 ms  DeleteObjects: 0.024041 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.752 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 280.3 MB.
+System memory in use after: 280.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3814.
+Total: 2.048292 ms (FindLiveObjects: 0.267375 ms CreateObjectMapping: 0.075333 ms MarkObjects: 1.670666 ms  DeleteObjects: 0.034083 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1050.518204 seconds.
+  path: Assets/Paciente/idle waiting room.anim
+  artifactKey: Guid(82fc7f5be3aba44fca1c7eb0e666903c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/idle waiting room.anim using Guid(82fc7f5be3aba44fca1c7eb0e666903c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de708f279bc871534a4c024d2a7f8e34') in 0.409731 seconds 
+  Import took 0.461789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.260037 seconds.
+  path: Assets/Paciente/Texturas
+  artifactKey: Guid(4dc490d1a0800a746b620c8d76c23cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas using Guid(4dc490d1a0800a746b620c8d76c23cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c0a96274a2b05b643a5dfead4ae595') in 0.001371 seconds 
+  Import took 0.007200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001798 seconds.
+  path: Assets/Paciente/Texturas
+  artifactKey: Guid(4dc490d1a0800a746b620c8d76c23cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Texturas using Guid(4dc490d1a0800a746b620c8d76c23cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c0a96274a2b05b643a5dfead4ae595') in 0.001986 seconds 
+  Import took 0.008188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.476813 seconds.
+  path: Assets/Paciente/PACIENTE_ANIM_01.blend1
+  artifactKey: Guid(0757054ec1033ba45800604c8ad2c5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/PACIENTE_ANIM_01.blend1 using Guid(0757054ec1033ba45800604c8ad2c5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ae3b7b6c9f4bc97fe8521f781e92c9') in 0.109800 seconds 
+  Import took 0.114361 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004267 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.679 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 288.9 MB.
+System memory in use after: 289.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3817.
+Total: 1.938625 ms (FindLiveObjects: 0.284750 ms CreateObjectMapping: 0.069625 ms MarkObjects: 1.560834 ms  DeleteObjects: 0.022583 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 309.320935 seconds.
+  path: Assets/Paciente/Controller/paciente controller.controller
+  artifactKey: Guid(de206d7de715147078b465dcd55c1c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/Controller/paciente controller.controller using Guid(de206d7de715147078b465dcd55c1c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9beb15db8d7d1ee743c1a720e280642') in 0.089133 seconds 
+  Import took 0.117310 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.052840 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.805 seconds
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 289.2 MB.
+System memory in use after: 289.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3820.
+Total: 2.653958 ms (FindLiveObjects: 0.454292 ms CreateObjectMapping: 0.087666 ms MarkObjects: 2.074417 ms  DeleteObjects: 0.036458 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 269.820981 seconds.
+  path: Assets/Paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e4a255ac77cde95cd56222011bc62a') in 1.001699 seconds 
+  Import took 1.033251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.164350 seconds.
+  path: Assets/Paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a809b5d92b4aaa38b77d937c8b0040fd') in 0.401141 seconds 
+  Import took 0.433522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.324983 seconds.
+  path: Assets/Paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c97079a675adb2a0eca61a4249a6b3') in 2.638721 seconds 
+  Import took 2.778232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015475 seconds.
+  path: Assets/Paciente/PACIENTE_ANIM_01.blend
+  artifactKey: Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paciente/PACIENTE_ANIM_01.blend using Guid(5fd0ac962197f0240be2fc9810d5ace7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c97079a675adb2a0eca61a4249a6b3') in 2.212064 seconds 
+  Import took 2.289431 seconds .
+
