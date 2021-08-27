@@ -15464,7 +15464,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8172144713741863035}
-  - component: {fileID: 8172144713741862916}
+  - component: {fileID: 1686897583}
   m_Layer: 0
   m_Name: Paciente
   m_TagString: Untagged
@@ -15493,23 +15493,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
---- !u!111 &8172144713741862916
-Animation:
+--- !u!95 &1686897583
+Animator:
+  serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8172144713741862917}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 364235082877783451, guid: 5fd0ac962197f0240be2fc9810d5ace7, type: 3}
-  m_Animations:
-  - {fileID: -623603649343465320, guid: 5fd0ac962197f0240be2fc9810d5ace7, type: 3}
-  - {fileID: 364235082877783451, guid: 5fd0ac962197f0240be2fc9810d5ace7, type: 3}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f6923112fa2d8e24783a58881d836143, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &8172144713744252596
 GameObject:
   m_ObjectHideFlags: 0
